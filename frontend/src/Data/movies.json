@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "title": "Urban Blast",
+        "rating": 8.1,
+        "genre": "Action",
+        "poster": "/Project_images/1.jpg",
+        "storyline": "A high-risk counter-terror operation unfolds in the heart of a city as elite forces race against time to stop a devastating explosion."
+    },
+    {
+        "id": 2,
+        "title": "Last Row Love",
+        "rating": 7.6,
+        "genre": "Romance",
+        "poster": "/Project_images/2.jpg",
+        "storyline": "Two strangers meet in an almost-empty cinema and discover that sometimes love begins in the quietest seats."
+    },
+    {
+        "id": 3,
+        "title": "Beyond the Stars",
+        "rating": 8.8,
+        "genre": "Sci-Fi",
+        "poster": "/Project_images/3.png",
+        "storyline": "In a distant future, humanity builds a massive space station that becomes the last hope against an intergalactic threat."
+    },
+    {
+        "id": 4,
+        "title": "Realm of the Ancients",
+        "rating": 8.5,
+        "genre": "Fantasy",
+        "poster": "/Project_images/4.jpg",
+        "storyline": "A mythical world filled with ancient beasts and lost civilizations comes alive as a chosen warrior rises to restore balance."
+    },
+    {
+        "id": 5,
+        "title": "The Fog House",
+        "rating": 7.9,
+        "genre": "Horror",
+        "poster": "/Project_images/5.jpg",
+        "storyline": "A remote house hidden in thick fog holds dark secrets that slowly reveal themselves to an unsuspecting traveler."
+    },
+    {
+        "id": 6,
+        "title": "Neon Nights",
+        "rating": 8.0,
+        "genre": "Thriller",
+        "poster": "/Project_images/6.png",
+        "storyline": "In a rain-soaked city glowing with neon lights, a lone man uncovers a conspiracy that controls the streets after dark."
+    },
+    {
+        "id": 7,
+        "title": "The Silent Man",
+        "rating": 7.7,
+        "genre": "Mystery",
+        "poster": "/Project_images/7.jpg",
+        "storyline": "A shadowy figure moves through the city at night, hiding a past that slowly unravels through a series of clues."
+    },
+    {
+        "id": 8,
+        "title": "Rogue Cops",
+        "rating": 8.3,
+        "genre": "Crime",
+        "poster": "/Project_images/8.jpg",
+        "storyline": "Two fearless cops take on a powerful criminal syndicate, bending the rules to bring justice to the streets."
+    },
+    {
+        "id": 9,
+        "title": "Faces of Emotion",
+        "rating": 7.4,
+        "genre": "Animation",
+        "poster": "/Project_images/9.jpg",
+        "storyline": "A colorful animated journey exploring different emotions through expressive characters and playful storytelling."
+    },
+    {
+        "id": 10,
+        "title": "Ancient Warriors",
+        "rating": 8.0,
+        "genre": "Historical",
+        "poster": "/Project_images/10.jpg",
+        "storyline": "A group of legendary warriors reunite to confront a dark chapter from their past that refuses to stay buried."
+    },
+    {
+        "id": 11,
+        "title": "Frozen Frontline",
+        "rating": 8.2,
+        "genre": "War",
+        "poster": "/Project_images/11.jpg",
+        "storyline": "Soldiers battle brutal enemies and harsher winters as they fight for survival on a frozen battlefield."
+    }
+]
